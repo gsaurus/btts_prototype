@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: da5e4d6b7e8c58a4fabc3689aca6271f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Donovan
+    21300002: Donovan_0
+    21300004: Donovan_1
+    21300006: Donovan_2
+    21300008: Donovan_3
+    21300010: Donovan_4
+    21300012: Donovan_5
+    21300014: Donovan_6
+    21300016: Donovan_7
+    21300018: Donovan_8
+    21300020: Donovan_9
+    21300022: Donovan_10
+    21300024: Donovan_11
+    21300026: Donovan_12
+    21300028: Donovan_13
+    21300030: Donovan_14
+    21300032: Donovan_15
+    21300034: Donovan_16
+    21300036: stand
+    21300038: walk_1
+    21300040: walk_2
+    21300042: grab_hit_1
+    21300044: grab_hit_2
+    21300046: hit_1
+    21300048: hit_2
+    21300050: knocked_down
+    21300052: lying
+    21300054: stand_up_1
+    21300056: stand_up_2
+    21300058: thrown 1
+    21300060: thrown_2
+    21300062: punch
+    21300064: hard_punch_1
+    21300066: hard_punch_2
+    21300068: fall
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stand
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 439
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 439
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_hit_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 439
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_hit_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 326
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hit_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 326
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knocked_down
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 326
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lying
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stand_up_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stand_up_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 213
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thrown 1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 213
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thrown_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punch
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 100
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hard_punch_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 100
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hard_punch_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 100
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: .449438214, y: .221238941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 89
+        height: 100
+      alignment: 9
+      pivot: {x: .449438214, y: .111238942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
